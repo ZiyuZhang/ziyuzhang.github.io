@@ -60,6 +60,14 @@ I have served as a course assistant in the following courses:
 * 2004-05, Stanford University, MATH53: Ordinary Differential Equations.
 
 ### Invited Talks
+* Formality and singularities of some moduli spaces of sheaves on K3 surfaces, 
+School on Deformation Theory, University of Turin, July 2017.
+* Singularities of moduli spaces of sheaves on K3 surfaces and formality, 
+Leibniz University Hannover, June 2017.
+* Degenerations of Hilbert schemes of points on K3 surfaces, 
+University of Sheffield, May 2017.
+* Degenerations of Hilbert schemes of points on K3 surfaces, 
+KU Leuven, April 2017.
 * Moduli spaces of sheaves on K3 surfaces and Bridgeland stability conditions, 
 Tsinghua University, Beijing, September 2016.
 * Holomorphic symplectic manifolds among Bridgeland moduli spaces, 
