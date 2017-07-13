@@ -6,4 +6,3 @@ theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
-  - jekyll-last-modified-at
