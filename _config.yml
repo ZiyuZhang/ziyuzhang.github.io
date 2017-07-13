@@ -6,5 +6,4 @@ theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
-gems:
   - jekyll-last-modified-at
