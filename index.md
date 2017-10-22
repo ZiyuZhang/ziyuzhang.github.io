@@ -14,7 +14,7 @@ My research focuses on several aspects in algebraic geometry, including
 * derived categories, stability conditions and wall-crossing.
 
 ### Publications
-My publications and preprints can be found on [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
+My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:zhang.ziyu), [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
 * Wall-crossing for moduli spaces of complexes with compact support, (joint with Arend Bayer and Alastair Craw), 
 *in preparation*.
 * Cohomology jump loci of moduli spaces of sheaves on K3 surfaces, (joint with Nero Budur, Juultje Kok and Marcel Rubió), 
