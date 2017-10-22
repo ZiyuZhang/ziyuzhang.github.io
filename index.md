@@ -39,12 +39,13 @@ to appear in *Comm. Anal. Geom.*
 *PhD thesis* at Stanford University, 2009.
 
 ### Teaching
-I have taught the following courses as a lecturer:
+Lectures delivered:
 * 2015-16, University of Bath, MA40188: [Algebraic Curves](https://ziyuzhang.github.io/ma40188/).
 * 2014-15, University of Bath, MA40238: [Number Theory](https://ziyuzhang.github.io/ma40238/).
 * 2008-09, Stanford University, MATH19: [Calculus I](http://math.stanford.edu/~zhangzy/math19/).
 
-I have taught exercise classes as a teaching assistant in the following courses:
+Exercise classes taught:
+* 2017-18, Leibniz University Hannover: Mathematik für Ingenieure I.
 * 2013-14, University of Bath, XX10190: Discrete Mathematics and Programming.
 * 2012-13, University of Bonn, V4A2: Algebraic Geometry II (postgraduate level).
 * 2008-09, Stanford University, MATH41: Calculus I.
@@ -53,7 +54,9 @@ I have taught exercise classes as a teaching assistant in the following courses:
 * 2006-07, Stanford University, MATH42: Calculus II.
 * 2005-06, Stanford University, MATH41: Calculus I.
 
-I have served as a course assistant in the following courses:
+Other courses assisted:
+* 2016-17, Leibniz University Hannover: Mathematik für Ingenieure II.
+* 2016-17, Leibniz University Hannover: Mathematik für Ingenieure I.
 * 2008-09, Stanford University, MATH210C: Modern Algebra III (postgraduate level).
 * 2006-07, Stanford University, MATH115: Functions of a Real Variable.
 * 2006-07, Stanford University, MATH171: Fundamental Concepts of Analysis.
