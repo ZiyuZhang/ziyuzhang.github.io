@@ -23,10 +23,10 @@ My publications and preprints can be found on [MathSciNet](http://www.ams.org/ma
 to appear in *J. Geometry Phys.*
 * [Preservation of semistability under Fourier-Mukai transforms](./preservation-semistability.pdf), (joint with Jason Lo), 
 to appear in *Geom. Dedicata*.
-* [Nef divisors for moduli spaces of complexes with compact support](./nef-divisor-moduli.pdf), (joint with Arend Bayer and Alastair Craw), 
-to appear in *Selecta Math.*
 * [Moduli spaces of sheaves on K3 surfaces and symplectic stacks](./cotangent-complex.pdf), 
 to appear in *Comm. Anal. Geom.*
+* [Nef divisors for moduli spaces of complexes with compact support](./nef-divisor-moduli.pdf), (joint with Arend Bayer and Alastair Craw), 
+*Selecta Math. (N.S.)*, 23(2):1507-1561, 2017.
 * [Birational geometry of singular moduli spaces of O’Grady type](./birational-singular.pdf), (joint with Ciaran Meachan), 
 *Adv. Math.*, 296:210-267, 2016.
 * [Representing stable complexes on projective spaces](./stable-complexes-projective.pdf), (joint with Jason Lo), 
