@@ -41,7 +41,7 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 * [A note on formality and singularities of moduli spaces](./formality-singularity.pdf), 
 *Mosc. Math. J.*, 12(4):1-17, 2012.
 * On singular moduli spaces of sheaves on K3 surfaces, 
-*PhD thesis* at Stanford University, 2009.
+*PhD thesis*, Stanford University, 2009.
 
 ### Teaching Experience
 Lectures delivered:
