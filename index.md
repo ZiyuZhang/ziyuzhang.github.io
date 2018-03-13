@@ -24,10 +24,10 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 *arXiv:1803.03974*.
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-hilbert.pdf), (joint with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek), 
 *arXiv:1802.00622*.
-* [Preservation of semistability under Fourier-Mukai transforms](./preservation-semistability.pdf), (joint with Jason Lo), 
-to appear in *Geom. Dedicata*.
 * [Duality spectral sequences for Weierstrass fibrations and applications](./duality-spectral-sequences.pdf), (joint with Jason Lo),
 *J. Geometry Phys.*, 123:362-371, 2018.
+* [Preservation of semistability under Fourier-Mukai transforms](./preservation-semistability.pdf), (joint with Jason Lo), 
+*Geom. Dedicata*, 193(1):89-119, 2018.
 * [Moduli spaces of sheaves on K3 surfaces and symplectic stacks](./cotangent-complex.pdf), 
 *Comm. Anal. Geom.*, 25(5):1063-1106, 2017.
 * [Nef divisors for moduli spaces of complexes with compact support](./nef-divisor-moduli.pdf), (joint with Arend Bayer and Alastair Craw), 
