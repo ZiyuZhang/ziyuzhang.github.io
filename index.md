@@ -47,7 +47,7 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 Lectures delivered:
 * 2015-16, University of Bath, MA40188: [Algebraic Curves](https://ziyuzhang.github.io/ma40188/).
 * 2014-15, University of Bath, MA40238: [Number Theory](https://ziyuzhang.github.io/ma40238/).
-* 2008-09, Stanford University, MATH19: [Calculus I](http://math.stanford.edu/~zhangzy/math19/).
+* 2008-09, Stanford University, MATH19: [Calculus I](https://ziyuzhang.github.io/math19/).
 
 Exercise classes taught:
 * 2017-18, Leibniz University Hannover: Mathematik für Ingenieure I.
