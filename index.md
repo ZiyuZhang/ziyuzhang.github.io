@@ -21,9 +21,9 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 * Cohomology jump loci of moduli spaces of sheaves on K3 surfaces (with Nero Budur, Juultje Kok and Marcel Rubió)<br/>
 *in preparation*.
 * [Formality conjecture for K3 surfaces](./formality-conjecture.pdf) (with Nero Budur)<br/>
-*arXiv:1803.03974*.
+*submitted*, arXiv:1803.03974.
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-hilbert.pdf) (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)<br/>
-*arXiv:1802.00622*.
+*submitted*, arXiv:1802.00622.
 * [Duality spectral sequences for Weierstrass fibrations and applications](./duality-spectral-sequences.pdf) (with Jason Lo)<br/>
 *J. Geometry Phys.*, 123:362-371, 2018.
 * [Preservation of semistability under Fourier-Mukai transforms](./preservation-semistability.pdf) (with Jason Lo)<br/>
