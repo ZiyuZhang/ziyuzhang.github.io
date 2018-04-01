@@ -51,6 +51,7 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 *Mosc. Math. J.*, 12(4):1-17, 2012.
 * On singular moduli spaces of sheaves on K3 surfaces<br/>
 *PhD thesis*, Stanford University, 2009.
+{:.longlists}
 
 ### Teaching Experience
 Lectures delivered:
@@ -137,6 +138,7 @@ Chinese University of Hong Kong, December 2008.
 Area Exam Talk, Stanford University, May 2008.
 * Holomorphic symplectic manifolds,<br/>
 Student Algebraic Geometry Seminar, Stanford University, October 2007.
+{:.longlists}
 
 ### Seminar
 * [Reading seminar on cubic hypersurfaces](./seminar-cubic-hypersurfaces.pdf), (organised with Víctor González-Alonso),
