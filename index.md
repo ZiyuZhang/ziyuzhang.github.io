@@ -79,63 +79,63 @@ Other courses assisted:
 * 2004-05, Stanford University, MATH53: Ordinary Differential Equations.
 
 ### Invited Talks
-* Formality and singularities of some moduli spaces of sheaves on K3 surfaces, 
+* Formality and singularities of some moduli spaces of sheaves on K3 surfaces,<br/>
 School on Deformation Theory, University of Turin, July 2017.
-* Singularities of moduli spaces of sheaves on K3 surfaces and formality, 
+* Singularities of moduli spaces of sheaves on K3 surfaces and formality,<br/>
 Leibniz University Hannover, June 2017.
-* Degenerations of Hilbert schemes of points on K3 surfaces, 
+* Degenerations of Hilbert schemes of points on K3 surfaces,<br/>
 University of Sheffield, May 2017.
-* Degenerations of Hilbert schemes of points on K3 surfaces, 
+* Degenerations of Hilbert schemes of points on K3 surfaces,<br/>
 KU Leuven, April 2017.
-* Birational geometry of moduli spaces of sheaves on K3 surfaces via stability conditions, 
+* Birational geometry of moduli spaces of sheaves on K3 surfaces via stability conditions,<br/>
 University of Chemnitz, March 2017.
-* Holomorphic symplectic manifolds among Bridgeland moduli spaces, 
+* Holomorphic symplectic manifolds among Bridgeland moduli spaces,<br/>
 Workshop on Fano varieties and Calabi-Yau varieties, Kobe University, Japan, January 2017.
-* Moduli spaces of sheaves on K3 surfaces and Bridgeland stability conditions, 
+* Moduli spaces of sheaves on K3 surfaces and Bridgeland stability conditions,<br/>
 University of Copenhagen, December 2016.
-* Moduli spaces of sheaves on K3 surfaces and Bridgeland stability conditions, 
+* Moduli spaces of sheaves on K3 surfaces and Bridgeland stability conditions,<br/>
 Tsinghua University, Beijing, September 2016.
-* Holomorphic symplectic manifolds among Bridgeland moduli spaces, 
+* Holomorphic symplectic manifolds among Bridgeland moduli spaces,<br/>
 Leibniz University Hannover, June 2016.
-* Wall-crossing and birational geometry of moduli spaces, 
+* Wall-crossing and birational geometry of moduli spaces,<br/>
 University of Science and Technology of China, April 2016.
-* Introduction to Bridgeland stability conditions, 
+* Introduction to Bridgeland stability conditions,<br/>
 University of Science and Technology of China, April 2016.
-* Local structures of moduli spaces of sheaves on K3 surfaces and formality, 
+* Local structures of moduli spaces of sheaves on K3 surfaces and formality,<br/>
 GLEN seminar, University of Glasgow, March 2016.
-* Formality and singularities of moduli spaces of sheaves on K3 surfaces, 
+* Formality and singularities of moduli spaces of sheaves on K3 surfaces,<br/>
 KU Leuven, April 2015.
-* Holomorphic symplectic manifolds among Bridgeland moduli spaces, 
+* Holomorphic symplectic manifolds among Bridgeland moduli spaces,<br/>
 University of Warwick, February 2015.
-* Birational geometry of singular moduli spaces of O'Grady type, 
+* Birational geometry of singular moduli spaces of O'Grady type,<br/>
 University of Sheffield, November 2014.
-* The Bayer-Macrì map and birational geometry of moduli spaces, 
+* The Bayer-Macrì map and birational geometry of moduli spaces,<br/>
 University of Bath, October 2014.
-* Birational geometry of singular moduli spaces of O'Grady type, 
+* Birational geometry of singular moduli spaces of O'Grady type,<br/>
 University of Edinburgh, May 2014.
-* The Bayer-Macrì map and birational geometry of moduli spaces, 
+* The Bayer-Macrì map and birational geometry of moduli spaces,<br/>
 COW Seminar, Imperial College London, April 2014.
-* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes, 
+* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes,<br/>
 University of Bath, May 2013.
-* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes, 
+* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes,<br/>
 University of Freiburg, July 2012.
-* Singular moduli spaces of sheaves on K3 surfaces, 
+* Singular moduli spaces of sheaves on K3 surfaces,<br/>
 Max-Planck-Institute for Mathematics, February 2012.
-* Cotangent complexes of moduli of sheaves and symplectic stacks, 
+* Cotangent complexes of moduli of sheaves and symplectic stacks,<br/>
 SFB-TR/45 Seminar, University of Bonn, January 2012.
-* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes, 
+* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes,<br/>
 University of Bielefeld, December 2011.
-* On singular moduli spaces of sheaves on K3 surfaces, 
+* On singular moduli spaces of sheaves on K3 surfaces,<br/>
 University of Science and Technology of China, July 2011.
-* Cotangent complexes of moduli of sheaves and symplectic stacks, 
+* Cotangent complexes of moduli of sheaves and symplectic stacks,<br/>
 University of Missouri, June 2011.
-* Quadratic singularities of moduli spaces of sheaves on K3 surfaces, 
+* Quadratic singularities of moduli spaces of sheaves on K3 surfaces,<br/>
 Ohio State University, February 2010.
-* Quadratic singularities of moduli spaces of sheaves on K3 surfaces, 
+* Quadratic singularities of moduli spaces of sheaves on K3 surfaces,<br/>
 Chinese University of Hong Kong, December 2008.
-* Birationality and deformation equivalence of holomorphic symplectic manifolds, 
+* Birationality and deformation equivalence of holomorphic symplectic manifolds,<br/>
 Area Exam Talk, Stanford University, May 2008.
-* Holomorphic symplectic manifolds, 
+* Holomorphic symplectic manifolds,<br/>
 Student Algebraic Geometry Seminar, Stanford University, October 2007.
 
 ### Seminar
