@@ -16,25 +16,34 @@ My research focuses on several aspects in algebraic geometry, including
 
 ### Publications
 My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:zhang.ziyu), [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
-* Wall-crossing for moduli spaces of complexes with compact support (with Arend Bayer and Alastair Craw)<br/>
+* Wall-crossing for moduli spaces of complexes with compact support<br/>
+(with Arend Bayer and Alastair Craw)<br/>
 *in preparation*.
-* Cohomology jump loci of moduli spaces of sheaves on K3 surfaces (with Nero Budur, Juultje Kok and Marcel Rubió)<br/>
+* Cohomology jump loci of moduli spaces of sheaves on K3 surfaces<br/>
+(with Nero Budur, Juultje Kok and Marcel Rubió)<br/>
 *in preparation*.
-* [Formality conjecture for K3 surfaces](./formality-conjecture.pdf) (with Nero Budur)<br/>
+* [Formality conjecture for K3 surfaces](./formality-conjecture.pdf)<br/>
+(with Nero Budur)<br/>
 *submitted*, arXiv:1803.03974.
-* [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-hilbert.pdf) (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)<br/>
+* [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-hilbert.pdf)<br/>
+(with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)<br/>
 *submitted*, arXiv:1802.00622.
-* [Duality spectral sequences for Weierstrass fibrations and applications](./duality-spectral-sequences.pdf) (with Jason Lo)<br/>
+* [Duality spectral sequences for Weierstrass fibrations and applications](./duality-spectral-sequences.pdf)<br/>
+(with Jason Lo)<br/>
 *J. Geometry Phys.*, 123:362-371, 2018.
-* [Preservation of semistability under Fourier-Mukai transforms](./preservation-semistability.pdf) (with Jason Lo)<br/>
+* [Preservation of semistability under Fourier-Mukai transforms](./preservation-semistability.pdf)<br/>
+(with Jason Lo)<br/>
 *Geom. Dedicata*, 193(1):89-119, 2018.
 * [Moduli spaces of sheaves on K3 surfaces and symplectic stacks](./cotangent-complex.pdf)<br/>
 *Comm. Anal. Geom.*, 25(5):1063-1106, 2017.
-* [Nef divisors for moduli spaces of complexes with compact support](./nef-divisor-moduli.pdf) (with Arend Bayer and Alastair Craw)<br/>
+* [Nef divisors for moduli spaces of complexes with compact support](./nef-divisor-moduli.pdf)<br/>
+(with Arend Bayer and Alastair Craw)<br/>
 *Selecta Math. (N.S.)*, 23(2):1507-1561, 2017.
-* [Birational geometry of singular moduli spaces of O’Grady type](./birational-singular.pdf) (with Ciaran Meachan)<br/>
+* [Birational geometry of singular moduli spaces of O’Grady type](./birational-singular.pdf)<br/>
+(with Ciaran Meachan)<br/>
 *Adv. Math.*, 296:210-267, 2016.
-* [Representing stable complexes on projective spaces](./stable-complexes-projective.pdf) (with Jason Lo)<br/>
+* [Representing stable complexes on projective spaces](./stable-complexes-projective.pdf)<br/>
+(with Jason Lo)<br/>
 *J. Algebra*, 400:185-218, 2014.
 * [A note on singular moduli spaces of sheaves on K3 surfaces](./singular-moduli-space.pdf)<br/>
 *Geom. Dedicata*, 173(1):347-363, 2014.
