@@ -47,9 +47,9 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 *J. Algebra*, 400:185-218, 2014.
 * [A note on singular moduli spaces of sheaves on K3 surfaces](./singular-moduli-space.pdf)<br/>
 *Geom. Dedicata*, 173(1):347-363, 2014.
-* [A note on formality and singularities of moduli spaces](./formality-singularity.pdf)<br/>
+* [A note on formality and singularities of moduli spaces](./formality-singularity.pdf)  
 [*Mosc. Math. J.*, 12(4):1-17](http://www.mathjournals.org/mmj/2012-012-004/2012-012-004-011.pdf), 2012.
-* On singular moduli spaces of sheaves on K3 surfaces<br/>
+* On singular moduli spaces of sheaves on K3 surfaces  
 *PhD thesis*, Stanford University, 2009.
 {:.longlists}
 
