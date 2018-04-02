@@ -16,39 +16,39 @@ My research focuses on several aspects in algebraic geometry, including
 
 ### Publications
 My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:zhang.ziyu), [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
-* Wall-crossing for moduli spaces of complexes with compact support<br/>
-(with Arend Bayer and Alastair Craw)<br/>
+* Wall-crossing for moduli spaces of complexes with compact support  
+(with Arend Bayer and Alastair Craw)  
 *in preparation*.
-* Cohomology jump loci of moduli spaces of sheaves on K3 surfaces<br/>
-(with Nero Budur, Juultje Kok and Marcel Rubió)<br/>
+* Cohomology jump loci of moduli spaces of sheaves on K3 surfaces  
+(with Nero Budur, Juultje Kok and Marcel Rubió)  
 *in preparation*.
-* [Formality conjecture for K3 surfaces](./formality-conjecture.pdf)<br/>
-(with Nero Budur)<br/>
-*submitted*, arXiv:1803.03974.
-* [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-hilbert.pdf)<br/>
-(with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)<br/>
-*submitted*, arXiv:1802.00622.
-* [Duality spectral sequences for Weierstrass fibrations and applications](./duality-spectral-sequences.pdf)<br/>
-(with Jason Lo)<br/>
-*J. Geometry Phys.*, 123:362-371, 2018.
-* [Preservation of semistability under Fourier-Mukai transforms](./preservation-semistability.pdf)<br/>
-(with Jason Lo)<br/>
-*Geom. Dedicata*, 193(1):89-119, 2018.
-* [Moduli spaces of sheaves on K3 surfaces and symplectic stacks](./cotangent-complex.pdf)<br/>
-*Comm. Anal. Geom.*, 25(5):1063-1106, 2017.
-* [Nef divisors for moduli spaces of complexes with compact support](./nef-divisor-moduli.pdf)<br/>
-(with Arend Bayer and Alastair Craw)<br/>
-*Selecta Math. (N.S.)*, 23(2):1507-1561, 2017.
-* [Birational geometry of singular moduli spaces of O’Grady type](./birational-singular.pdf)<br/>
-(with Ciaran Meachan)<br/>
-*Adv. Math.*, 296:210-267, 2016.
-* [Representing stable complexes on projective spaces](./stable-complexes-projective.pdf)<br/>
-(with Jason Lo)<br/>
-*J. Algebra*, 400:185-218, 2014.
-* [A note on singular moduli spaces of sheaves on K3 surfaces](./singular-moduli-space.pdf)<br/>
-*Geom. Dedicata*, 173(1):347-363, 2014.
+* [Formality conjecture for K3 surfaces](./formality-conjecture.pdf)  
+(with Nero Budur)  
+*submitted*, [arXiv:1803.03974](https://arxiv.org/abs/1803.03974).
+* [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-hilbert.pdf)  
+(with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)  
+*submitted*, [arXiv:1802.00622](https://arxiv.org/abs/1802.00622).
+* [Duality spectral sequences for Weierstrass fibrations and applications](./duality-spectral-sequences.pdf)  
+(with Jason Lo)  
+[*J. Geometry Phys.*, 123:362-371](https://doi.org/10.1016/j.geomphys.2017.09.016), 2018.
+* [Preservation of semistability under Fourier-Mukai transforms](./preservation-semistability.pdf)  
+(with Jason Lo)  
+[*Geom. Dedicata*, 193(1):89-119](https://doi.org/10.1007/s10711-017-0255-8), 2018.
+* [Moduli spaces of sheaves on K3 surfaces and symplectic stacks](./cotangent-complex.pdf)  
+[*Comm. Anal. Geom.*, 25(5):1063-1106](http://dx.doi.org/10.4310/CAG.2017.v25.n5.a6), 2017.
+* [Nef divisors for moduli spaces of complexes with compact support](./nef-divisor-moduli.pdf)  
+(with Arend Bayer and Alastair Craw)  
+[*Selecta Math. (N.S.)*, 23(2):1507-1561](https://doi.org/10.1007/s00029-016-0298-y), 2017.
+* [Birational geometry of singular moduli spaces of O’Grady type](./birational-singular.pdf)  
+(with Ciaran Meachan)  
+[*Adv. Math.*, 296:210-267](https://doi.org/10.1016/j.aim.2016.02.036), 2016.
+* [Representing stable complexes on projective spaces](./stable-complexes-projective.pdf)  
+(with Jason Lo)  
+[*J. Algebra*, 400:185-218](https://doi.org/10.1016/j.jalgebra.2013.11.013), 2014.
+* [A note on singular moduli spaces of sheaves on K3 surfaces](./singular-moduli-space.pdf)  
+[*Geom. Dedicata*, 173(1):347-363](https://doi.org/10.1007/s10711-013-9946-y), 2014.
 * [A note on formality and singularities of moduli spaces](./formality-singularity.pdf)  
-[*Mosc. Math. J.*, 12(4):1-17](http://www.mathjournals.org/mmj/2012-012-004/2012-012-004-011.pdf), 2012.
+[*Mosc. Math. J.*, 12(4):1-17](http://www.mathjournals.org/mmj/2012-012-004/2012-012-004-011.html), 2012.
 * On singular moduli spaces of sheaves on K3 surfaces  
 *PhD thesis*, Stanford University, 2009.
 {:.longlists}
@@ -80,66 +80,66 @@ Other courses assisted:
 * 2004-05, Stanford University, MATH53: Ordinary Differential Equations.
 
 ### Invited Talks
-* Formality and singularities of some moduli spaces of sheaves on K3 surfaces,<br/>
+* Formality and singularities of some moduli spaces of sheaves on K3 surfaces,  
 School on Deformation Theory, University of Turin, July 2017.
-* Singularities of moduli spaces of sheaves on K3 surfaces and formality,<br/>
+* Singularities of moduli spaces of sheaves on K3 surfaces and formality,  
 Leibniz University Hannover, June 2017.
-* Degenerations of Hilbert schemes of points on K3 surfaces,<br/>
+* Degenerations of Hilbert schemes of points on K3 surfaces,  
 University of Sheffield, May 2017.
-* Degenerations of Hilbert schemes of points on K3 surfaces,<br/>
+* Degenerations of Hilbert schemes of points on K3 surfaces,  
 KU Leuven, April 2017.
-* Birational geometry of moduli spaces of sheaves on K3 surfaces via stability conditions,<br/>
+* Birational geometry of moduli spaces of sheaves on K3 surfaces via stability conditions,  
 University of Chemnitz, March 2017.
-* Holomorphic symplectic manifolds among Bridgeland moduli spaces,<br/>
+* Holomorphic symplectic manifolds among Bridgeland moduli spaces,  
 Workshop on Fano varieties and Calabi-Yau varieties, Kobe University, Japan, January 2017.
-* Moduli spaces of sheaves on K3 surfaces and Bridgeland stability conditions,<br/>
+* Moduli spaces of sheaves on K3 surfaces and Bridgeland stability conditions,  
 University of Copenhagen, December 2016.
-* Moduli spaces of sheaves on K3 surfaces and Bridgeland stability conditions,<br/>
+* Moduli spaces of sheaves on K3 surfaces and Bridgeland stability conditions,  
 Tsinghua University, Beijing, September 2016.
-* Holomorphic symplectic manifolds among Bridgeland moduli spaces,<br/>
+* Holomorphic symplectic manifolds among Bridgeland moduli spaces,  
 Leibniz University Hannover, June 2016.
-* Wall-crossing and birational geometry of moduli spaces,<br/>
+* Wall-crossing and birational geometry of moduli spaces,  
 University of Science and Technology of China, April 2016.
-* Introduction to Bridgeland stability conditions,<br/>
+* Introduction to Bridgeland stability conditions,  
 University of Science and Technology of China, April 2016.
-* Local structures of moduli spaces of sheaves on K3 surfaces and formality,<br/>
+* Local structures of moduli spaces of sheaves on K3 surfaces and formality,  
 GLEN seminar, University of Glasgow, March 2016.
-* Formality and singularities of moduli spaces of sheaves on K3 surfaces,<br/>
+* Formality and singularities of moduli spaces of sheaves on K3 surfaces,  
 KU Leuven, April 2015.
-* Holomorphic symplectic manifolds among Bridgeland moduli spaces,<br/>
+* Holomorphic symplectic manifolds among Bridgeland moduli spaces,  
 University of Warwick, February 2015.
-* Birational geometry of singular moduli spaces of O'Grady type,<br/>
+* Birational geometry of singular moduli spaces of O'Grady type,  
 University of Sheffield, November 2014.
-* The Bayer-Macrì map and birational geometry of moduli spaces,<br/>
+* The Bayer-Macrì map and birational geometry of moduli spaces,  
 University of Bath, October 2014.
-* Birational geometry of singular moduli spaces of O'Grady type,<br/>
+* Birational geometry of singular moduli spaces of O'Grady type,  
 University of Edinburgh, May 2014.
-* The Bayer-Macrì map and birational geometry of moduli spaces,<br/>
+* The Bayer-Macrì map and birational geometry of moduli spaces,  
 COW Seminar, Imperial College London, April 2014.
-* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes,<br/>
+* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes,  
 University of Bath, May 2013.
-* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes,<br/>
+* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes,  
 University of Freiburg, July 2012.
-* Singular moduli spaces of sheaves on K3 surfaces,<br/>
+* Singular moduli spaces of sheaves on K3 surfaces,  
 Max-Planck-Institute for Mathematics, February 2012.
-* Cotangent complexes of moduli of sheaves and symplectic stacks,<br/>
+* Cotangent complexes of moduli of sheaves and symplectic stacks,  
 SFB-TR/45 Seminar, University of Bonn, January 2012.
-* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes,<br/>
+* Singular moduli spaces of sheaves on K3 surfaces and their cotangent complexes,  
 University of Bielefeld, December 2011.
-* On singular moduli spaces of sheaves on K3 surfaces,<br/>
+* On singular moduli spaces of sheaves on K3 surfaces,  
 University of Science and Technology of China, July 2011.
-* Cotangent complexes of moduli of sheaves and symplectic stacks,<br/>
+* Cotangent complexes of moduli of sheaves and symplectic stacks,  
 University of Missouri, June 2011.
-* Quadratic singularities of moduli spaces of sheaves on K3 surfaces,<br/>
+* Quadratic singularities of moduli spaces of sheaves on K3 surfaces,  
 Ohio State University, February 2010.
-* Quadratic singularities of moduli spaces of sheaves on K3 surfaces,<br/>
+* Quadratic singularities of moduli spaces of sheaves on K3 surfaces,  
 Chinese University of Hong Kong, December 2008.
-* Birationality and deformation equivalence of holomorphic symplectic manifolds,<br/>
+* Birationality and deformation equivalence of holomorphic symplectic manifolds,  
 Area Exam Talk, Stanford University, May 2008.
-* Holomorphic symplectic manifolds,<br/>
+* Holomorphic symplectic manifolds,  
 Student Algebraic Geometry Seminar, Stanford University, October 2007.
 {:.longlists}
 
 ### Seminar
-* [Reading seminar on cubic hypersurfaces](./seminar-cubic-hypersurfaces.pdf) (organised with Víctor González-Alonso)<br/>
+* [Reading seminar on cubic hypersurfaces](./seminar-cubic-hypersurfaces.pdf) (organised with Víctor González-Alonso)  
 Leibniz University Hannover, Winter Semester 2016-17.
