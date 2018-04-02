@@ -1,5 +1,5 @@
 ### Contact Information
-* **Email** 
+* **Email**  
 [```zhangzy at math.uni-hannover.de```](mailto:zhangzy@math.uni-hannover.de)
 * **Address**  
 ```
