@@ -1,8 +1,8 @@
 ### Contact Information
 * **Email:** [zhangzy at math.uni-hannover.de](mailto:zhangzy@math.uni-hannover.de)
 * **Postal Address:**  
-    Institute for Algebraic Geometry, Leibniz University Hannover  
-    Welfengarten 1, 30167 Hannover, Germany
+Institute for Algebraic Geometry, Leibniz University Hannover  
+Welfengarten 1, 30167 Hannover, Germany
 
 
 ### About Me
