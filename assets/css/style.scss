@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.longlists li {
+#papers li {
 padding: .4em;
+}
+
+#talks li {
+padding: .3em;
 }
