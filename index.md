@@ -1,7 +1,7 @@
 ### Contact Information
 * **Email:** [zhangzy at math.uni-hannover.de](mailto:zhangzy@math.uni-hannover.de)
-* **Postal Address:**  
-Institute for Algebraic Geometry, Leibniz University Hannover,  
+* **Postal Address:**<br/>
+Institute for Algebraic Geometry, Leibniz University Hannover<br/>
 Welfengarten 1, 30167 Hannover, Germany
 
 
@@ -48,7 +48,7 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 * [A note on singular moduli spaces of sheaves on K3 surfaces](./singular-moduli-space.pdf)<br/>
 *Geom. Dedicata*, 173(1):347-363, 2014.
 * [A note on formality and singularities of moduli spaces](./formality-singularity.pdf)<br/>
-*Mosc. Math. J.*, 12(4):1-17, 2012.
+[*Mosc. Math. J.*, 12(4):1-17](http://www.mathjournals.org/mmj/2012-012-004/2012-012-004-011.pdf), 2012.
 * On singular moduli spaces of sheaves on K3 surfaces<br/>
 *PhD thesis*, Stanford University, 2009.
 {:.longlists}
@@ -141,5 +141,5 @@ Student Algebraic Geometry Seminar, Stanford University, October 2007.
 {:.longlists}
 
 ### Seminar
-* [Reading seminar on cubic hypersurfaces](./seminar-cubic-hypersurfaces.pdf), (organised with Víctor González-Alonso),
+* [Reading seminar on cubic hypersurfaces](./seminar-cubic-hypersurfaces.pdf) (organised with Víctor González-Alonso)<br/>
 Leibniz University Hannover, Winter Semester 2016-17.
