@@ -138,7 +138,7 @@ Chinese University of Hong Kong, December 2008.
 Area Exam Talk, Stanford University, May 2008.
 * Holomorphic symplectic manifolds,  
 Student Algebraic Geometry Seminar, Stanford University, October 2007.
-{:talks}
+{:#talks}
 
 ### Seminar
 * [Reading seminar on cubic hypersurfaces](./seminar-cubic-hypersurfaces.pdf) (organised with Víctor González-Alonso)  
