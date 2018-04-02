@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+#contact li {
+padding: .2em;
+}
+
 #papers li {
 padding: .4em;
 }
