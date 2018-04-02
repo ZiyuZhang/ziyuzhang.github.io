@@ -35,7 +35,7 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 (with Jason Lo)  
 [*Geom. Dedicata*, 193(1):89-119](https://doi.org/10.1007/s10711-017-0255-8), 2018.
 * [Moduli spaces of sheaves on K3 surfaces and symplectic stacks](./cotangent-complex.pdf)  
-[*Comm. Anal. Geom.*, 25(5):1063-1106](http://dx.doi.org/10.4310/CAG.2017.v25.n5.a6), 2017.
+[*Comm. Anal. Geom.*, 25(5):1063-1106](https://doi.org/10.4310/CAG.2017.v25.n5.a6), 2017.
 * [Nef divisors for moduli spaces of complexes with compact support](./nef-divisor-moduli.pdf)  
 (with Arend Bayer and Alastair Craw)  
 [*Selecta Math. (N.S.)*, 23(2):1507-1561](https://doi.org/10.1007/s00029-016-0298-y), 2017.
