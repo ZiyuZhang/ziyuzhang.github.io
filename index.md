@@ -1,5 +1,5 @@
 ### Contact Information
-* Email address [`zhangzy at math.uni-hannover.de`](mailto:zhangzy@math.uni-hannover.de)
+* Email [`zhangzy at math.uni-hannover.de`](mailto:zhangzy@math.uni-hannover.de)
 * Postal address  
   ```
   Institute for Algebraic Geometry  
