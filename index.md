@@ -63,6 +63,7 @@ Lectures delivered:
 * 2008-09, Stanford University, MATH19: [Calculus I](https://ziyuzhang.github.io/math19/).
 
 Exercise classes taught:
+* 2017-18, Leibniz University Hannover: Mathematik für Ingenieure II.
 * 2017-18, Leibniz University Hannover: Mathematik für Ingenieure I.
 * 2013-14, University of Bath, XX10190: Discrete Mathematics and Programming.
 * 2012-13, University of Bonn, V4A2: Algebraic Geometry II (postgraduate level).
@@ -83,6 +84,8 @@ Other courses assisted:
 * 2004-05, Stanford University, MATH53: Ordinary Differential Equations.
 
 ### Invited Talks
+* Formality conjecture and moduli spaces of sheaves on K3 surfaces,  
+Leibniz University Hannover, April 2018.
 * Formality and singularities of some moduli spaces of sheaves on K3 surfaces,  
 School on Deformation Theory, University of Turin, July 2017.
 * Singularities of moduli spaces of sheaves on K3 surfaces and formality,  
@@ -134,7 +137,7 @@ University of Science and Technology of China, July 2011.
 * Cotangent complexes of moduli of sheaves and symplectic stacks,  
 University of Missouri, June 2011.
 * Quadratic singularities of moduli spaces of sheaves on K3 surfaces,  
-Ohio State University, February 2010.
+Ohio State University, February 2009.
 * Quadratic singularities of moduli spaces of sheaves on K3 surfaces,  
 Chinese University of Hong Kong, December 2008.
 * Birationality and deformation equivalence of holomorphic symplectic manifolds,  
