@@ -136,6 +136,8 @@ University of Bielefeld, December 2011.
 University of Science and Technology of China, July 2011.
 * Cotangent complexes of moduli of sheaves and symplectic stacks,  
 University of Missouri, June 2011.
+* DG algebras and formality,  
+University of Mainz, November 2009.
 * Quadratic singularities of moduli spaces of sheaves on K3 surfaces,  
 Ohio State University, February 2009.
 * Quadratic singularities of moduli spaces of sheaves on K3 surfaces,  
