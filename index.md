@@ -85,6 +85,10 @@ Other courses assisted:
 
 ### Invited Talks
 * Formality conjecture and moduli spaces of sheaves on K3 surfaces,  
+King's College London & University College London, June 2018.
+* Formality conjecture on K3 surfaces,  
+University of Mainz, June 2018.
+* Formality conjecture and moduli spaces of sheaves on K3 surfaces,  
 Leibniz University Hannover, April 2018.
 * Formality and singularities of some moduli spaces of sheaves on K3 surfaces,  
 School on Deformation Theory, University of Turin, July 2017.
