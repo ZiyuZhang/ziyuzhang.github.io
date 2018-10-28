@@ -63,6 +63,7 @@ Lectures delivered:
 * 2008-09, Stanford University, MATH19: [Calculus I](https://ziyuzhang.github.io/math19/).
 
 Exercise classes taught:
+* 2018-19, Leibniz University Hannover: Mathematik für Ingenieure I.
 * 2017-18, Leibniz University Hannover: Mathematik für Ingenieure II.
 * 2017-18, Leibniz University Hannover: Mathematik für Ingenieure I.
 * 2013-14, University of Bath, XX10190: Discrete Mathematics and Programming.
@@ -84,6 +85,14 @@ Other courses assisted:
 * 2004-05, Stanford University, MATH53: Ordinary Differential Equations.
 
 ### Invited Talks
+* Formality conjecture and moduli spaces of sheaves on K3 surfaces, 
+North German Algebraic Geometry Seminar, MPI Leipzig, November 2018.
+* Formality conjecture and moduli spaces of sheaves on K3 surfaces, 
+University of Lyon 1, October 2018.
+* Formality conjecture for K3 surfaces, 
+Fudan University, Shanghai, September 2018.
+* Formality conjecture and moduli spaces of sheaves on K3 surfaces, 
+University of Science and Technology of China, Hefei, September 2018.
 * Formality conjecture and moduli spaces of sheaves on K3 surfaces,  
 King's College London & University College London, June 2018.
 * Formality conjecture on K3 surfaces,  
