@@ -63,6 +63,7 @@ Lectures delivered:
 * 2008-09, Stanford University, MATH19: [Calculus I](https://ziyuzhang.github.io/math19/).
 
 Exercise classes taught:
+* 2018-19, Leibniz University Hannover: Mathematik für Ingenieure II.
 * 2018-19, Leibniz University Hannover: Mathematik für Ingenieure I.
 * 2017-18, Leibniz University Hannover: Mathematik für Ingenieure II.
 * 2017-18, Leibniz University Hannover: Mathematik für Ingenieure I.
