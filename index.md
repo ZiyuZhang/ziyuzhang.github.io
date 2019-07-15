@@ -9,7 +9,7 @@
   ```
 
 ### About Me
-I moved to [Leibniz University Hannover](http://www.uni-hannover.de) in 2016, joining the [Institute for Algebraic Geometry](http://www.iag.uni-hannover.de) as a PostDoc, working under the supervision of [Prof. Dr. Klaus Hulek](http://www.iag.uni-hannover.de/hulek.html). Before that I was a Research Associate at the [Department of Mathematical Sciences](http://www.bath.ac.uk/math-sci) at the [University of Bath](http://www.bath.ac.uk) since 2013, supervised by [Dr. Alastair Craw](http://people.bath.ac.uk/ac886/). I was an [SFB-TR/45](http://www.sfb45.de) PostDoc in Bonn and Mainz from 2009 to 2013, supervised by [Prof. Dr. Daniel Huybrechts](http://www.math.uni-bonn.de/~huybrech/) and [Prof. Dr. Manfred Lehn](http://www.agtz.mathematik.uni-mainz.de/topologie-und-geometrie/prof-dr-manfred-lehn/). I graduated with PhD in Mathematics from Stanford University in 2009, under the supervision of [Prof. Dr. Jun Li](http://math.stanford.edu/~jli/).
+I am a PostDoc at the [Institute for Algebraic Geometry](http://www.iag.uni-hannover.de) at [Leibniz University Hannover](http://www.uni-hannover.de), working under the supervision of [Prof. Dr. Klaus Hulek](http://www.iag.uni-hannover.de/hulek.html). Previously I held positions at Bath, Bonn and Mainz, supervised by [Dr. Alastair Craw](http://people.bath.ac.uk/ac886/), [Prof. Dr. Daniel Huybrechts](http://www.math.uni-bonn.de/~huybrech/) and [Prof. Dr. Manfred Lehn](http://www.agtz.mathematik.uni-mainz.de/topologie-und-geometrie/prof-dr-manfred-lehn/) respectively. I obtained PhD in Mathematics from Stanford University under the supervision of [Prof. Dr. Jun Li](http://math.stanford.edu/~jli/).
 
 ### Research Interests
 My research focuses on several aspects in algebraic geometry, including
