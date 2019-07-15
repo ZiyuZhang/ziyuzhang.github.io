@@ -25,6 +25,9 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 * Cohomology jump loci of moduli spaces of sheaves on K3 surfaces  
 (with Nero Budur, Juultje Kok and Marcel Rubió)  
 *in preparation*.
+* [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)
+(with Evgeny Shinder)
+*submitted*, [arXiv:1907.01335](https://arxiv.org/abs/1907.01335).
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-hilbert.pdf)  
 (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)  
 *submitted*, [arXiv:1802.00622](https://arxiv.org/abs/1802.00622).
@@ -57,35 +60,27 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 {:#papers}
 
 ### Teaching Experience
-Lectures delivered:
-* 2015-16, University of Bath, MA40188: [Algebraic Curves](https://ziyuzhang.github.io/ma40188/).
-* 2014-15, University of Bath, MA40238: [Number Theory](https://ziyuzhang.github.io/ma40238/).
-* 2008-09, Stanford University, MATH19: [Calculus I](https://ziyuzhang.github.io/math19/).
+Leibniz University Hannover:
+* 2018-19, Übung zu Mathematik für Ingenieure I/II.
+* 2017-18, Übung zu Mathematik für Ingenieure I/II.
 
-Exercise classes taught:
-* 2018-19, Leibniz University Hannover: Mathematik für Ingenieure II.
-* 2018-19, Leibniz University Hannover: Mathematik für Ingenieure I.
-* 2017-18, Leibniz University Hannover: Mathematik für Ingenieure II.
-* 2017-18, Leibniz University Hannover: Mathematik für Ingenieure I.
-* 2013-14, University of Bath, XX10190: Discrete Mathematics and Programming.
-* 2012-13, University of Bonn, V4A2: Algebraic Geometry II (postgraduate level).
-* 2008-09, Stanford University, MATH41: Calculus I.
-* 2008-09, Stanford University, MATH42: Calculus II.
-* 2007-08, Stanford University, MATH41: Calculus I.
-* 2006-07, Stanford University, MATH42: Calculus II.
-* 2005-06, Stanford University, MATH41: Calculus I.
+University of Bath:
+* 2015-16, MA40188: [Algebraic Curves](https://ziyuzhang.github.io/ma40188/).
+* 2014-15, MA40238: [Number Theory](https://ziyuzhang.github.io/ma40238/).
+* 2013-14, XX10190: Tutorials for Discrete Mathematics and Programming.
 
-Other courses assisted:
-* 2016-17, Leibniz University Hannover: Mathematik für Ingenieure II.
-* 2016-17, Leibniz University Hannover: Mathematik für Ingenieure I.
-* 2008-09, Stanford University, MATH210C: Modern Algebra III (postgraduate level).
-* 2006-07, Stanford University, MATH115: Functions of a Real Variable.
-* 2006-07, Stanford University, MATH171: Fundamental Concepts of Analysis.
-* 2005-06, Stanford University, MATH210B: Modern Algebra II (postgraduate level).
-* 2004-05, Stanford University, MATH114: Linear Algebra and Matrix Theory.
-* 2004-05, Stanford University, MATH53: Ordinary Differential Equations.
+University of Bonn:
+* 2012-13, V4A2: Tutorials for Algebraic Geometry II.
+
+Stanford University:
+* 2008-09, MATH19: [Calculus I](https://ziyuzhang.github.io/math19/).
+* 2005-09, Math41/42: Tutorials for Calculus I/II.
 
 ### Invited Talks
+* Irreducible holomorphic symplectic manifolds – Fantastic beasts and where to find them,  
+ShanghaiTech University, February 2019.
+* Formality conjecture for K3 surfaces,  
+Université libre de Bruxelles, January 2019.
 * Formality conjecture and moduli spaces of sheaves on K3 surfaces,  
 North German Algebraic Geometry Seminar, MPI Leipzig, November 2018.
 * Formality conjecture and moduli spaces of sheaves on K3 surfaces,  
