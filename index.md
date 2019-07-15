@@ -9,7 +9,7 @@
   ```
 
 ### About Me
-I am a PostDoc at the [Institute for Algebraic Geometry](http://www.iag.uni-hannover.de) at [Leibniz University Hannover](http://www.uni-hannover.de), working under the supervision of [Prof. Dr. Klaus Hulek](http://www.iag.uni-hannover.de/hulek.html). Previously I held positions at Bath, Bonn and Mainz, supervised by [Dr. Alastair Craw](http://people.bath.ac.uk/ac886/), [Prof. Dr. Daniel Huybrechts](http://www.math.uni-bonn.de/~huybrech/) and [Prof. Dr. Manfred Lehn](http://www.agtz.mathematik.uni-mainz.de/topologie-und-geometrie/prof-dr-manfred-lehn/) respectively. I obtained PhD in Mathematics from Stanford University under the supervision of [Prof. Jun Li](http://math.stanford.edu/~jli/).
+I am a PostDoc at the [Institute for Algebraic Geometry](http://www.iag.uni-hannover.de) at [Leibniz University Hannover](http://www.uni-hannover.de), working under the supervision of [Prof. Dr. Klaus Hulek](http://www.iag.uni-hannover.de/hulek.html). Previously I held positions at Bath, Bonn and Mainz, supervised by [Dr. Alastair Craw](http://people.bath.ac.uk/ac886/), [Prof. Dr. Daniel Huybrechts](http://www.math.uni-bonn.de/~huybrech/) and [Prof. Dr. Manfred Lehn](http://www.agtz.mathematik.uni-mainz.de/topologie-und-geometrie/prof-dr-manfred-lehn/) respectively. I obtained my Ph.D. in Mathematics from Stanford University under the supervision of [Prof. Jun Li](http://math.stanford.edu/~jli/).
 
 ### Research Interests
 My research focuses on several aspects in algebraic geometry, including
