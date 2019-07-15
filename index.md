@@ -25,8 +25,8 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 * Cohomology jump loci of moduli spaces of sheaves on K3 surfaces  
 (with Nero Budur, Juultje Kok and Marcel Rubió)  
 *in preparation*.
-* [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)
-(with Evgeny Shinder)
+* [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)  
+(with Evgeny Shinder)  
 *submitted*, [arXiv:1907.01335](https://arxiv.org/abs/1907.01335).
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-hilbert.pdf)  
 (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)  
