@@ -74,7 +74,7 @@ University of Bonn:
 
 Stanford University:
 * 2008-09, MATH19: [Calculus I](https://ziyuzhang.github.io/math19/).
-* 2005-09, Math41/42: Tutorials for Calculus I/II.
+* 2005-09, MATH41/42: Tutorials for Calculus I/II.
 
 ### Invited Talks
 * Irreducible holomorphic symplectic manifolds – Fantastic beasts and where to find them,  
