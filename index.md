@@ -65,16 +65,16 @@ Leibniz University Hannover:
 * 2017/18: Übung zu Mathematik für Ingenieure I/II.
 
 University of Bath:
-* 2015/16: MA40188 [Algebraic Curves](https://ziyuzhang.github.io/ma40188/).
-* 2014/15: MA40238 [Number Theory](https://ziyuzhang.github.io/ma40238/).
-* 2013/14: XX10190 Discrete Mathematics and Programming (tutorials).
+* 2015/16: MA40188, [Algebraic Curves](https://ziyuzhang.github.io/ma40188/).
+* 2014/15: MA40238, [Number Theory](https://ziyuzhang.github.io/ma40238/).
+* 2013/14: XX10190, Discrete Mathematics and Programming (tutorials).
 
 University of Bonn:
-* 2012/13: V4A2 Algebraic Geometry II (tutorials).
+* 2012/13: V4A2, Algebraic Geometry II (tutorials).
 
 Stanford University:
-* 2008/09: MATH19 [Calculus I](https://ziyuzhang.github.io/math19/).
-* 2005/06 - 2008/09: MATH41/42 Calculus I/II (tutorials).
+* 2008/09: MATH19, [Calculus I](https://ziyuzhang.github.io/math19/).
+* 2005/06 - 2008/09: MATH41/42, Calculus I/II (tutorials).
 
 ### Invited Talks
 * Irreducible holomorphic symplectic manifolds – Fantastic beasts and where to find them,  
