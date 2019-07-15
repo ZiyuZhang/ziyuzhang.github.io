@@ -67,14 +67,14 @@ Leibniz University Hannover:
 University of Bath:
 * 2015-16, MA40188: [Algebraic Curves](https://ziyuzhang.github.io/ma40188/).
 * 2014-15, MA40238: [Number Theory](https://ziyuzhang.github.io/ma40238/).
-* 2013-14, XX10190: Tutorials for Discrete Mathematics and Programming.
+* 2013-14, XX10190: Discrete Mathematics and Programming (tutorials).
 
 University of Bonn:
-* 2012-13, V4A2: Tutorials for Algebraic Geometry II.
+* 2012-13, V4A2: Algebraic Geometry II (tutorials).
 
 Stanford University:
 * 2008-09, MATH19: [Calculus I](https://ziyuzhang.github.io/math19/).
-* 2005-09, MATH41/42: Tutorials for Calculus I/II.
+* 2005-09, MATH41/42: Calculus I/II (tutorials).
 
 ### Invited Talks
 * Irreducible holomorphic symplectic manifolds – Fantastic beasts and where to find them,  
