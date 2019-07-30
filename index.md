@@ -19,12 +19,6 @@ My research focuses on several aspects in algebraic geometry, including
 
 ### Publications
 My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:zhang.ziyu), [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
-* Wall-crossing for moduli spaces of complexes with compact support  
-(with Arend Bayer and Alastair Craw)  
-*in preparation*.
-* Cohomology jump loci of moduli spaces of sheaves on K3 surfaces  
-(with Nero Budur, Juultje Kok and Marcel Rubió)  
-*in preparation*.
 * [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)  
 (with Evgeny Shinder)  
 *submitted*, [arXiv:1907.01335](https://arxiv.org/abs/1907.01335).
