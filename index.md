@@ -1,15 +1,9 @@
 ### Contact Information
-* Email [`zhangzy at math.uni-hannover.de`](mailto:zhangzy@math.uni-hannover.de)
-* Postal address  
-  ```
-  Institute for Algebraic Geometry  
-  Leibniz University Hannover  
-  Welfengarten 1  
-  30167 Hannover Germany
-  ```
+* Email [`zhangziyu at shanghaitech dot edu dot cn`](mailto:zhangziyu@shanghaitech.edu.cn)
+* If you would like to send me anything by post, please kindly contact me by email to request a shipping label.
 
 ### About Me
-I am a PostDoc at the [Institute for Algebraic Geometry](http://www.iag.uni-hannover.de) at [Leibniz University Hannover](http://www.uni-hannover.de), working under the supervision of [Prof. Dr. Klaus Hulek](http://www.iag.uni-hannover.de/hulek.html). Previously I held positions at Bath, Bonn and Mainz, supervised by [Dr. Alastair Craw](http://people.bath.ac.uk/ac886/), [Prof. Dr. Daniel Huybrechts](http://www.math.uni-bonn.de/~huybrech/) and [Prof. Dr. Manfred Lehn](http://www.agtz.mathematik.uni-mainz.de/topologie-und-geometrie/prof-dr-manfred-lehn/) respectively. I received my Ph.D. in Mathematics from Stanford University under the supervision of [Prof. Jun Li](http://math.stanford.edu/~jli/).
+I recently joined the [Institute of Mathematical Sciences](http://ims.shanghaitech.edu.cn/ims_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/) as an Associate Professor. Previously I held research positions at Hannover, Bath, Bonn and Mainz, mentored by [Prof. Dr. Klaus Hulek](http://www.iag.uni-hannover.de/hulek.html), [Dr. Alastair Craw](http://people.bath.ac.uk/ac886/), [Prof. Dr. Daniel Huybrechts](http://www.math.uni-bonn.de/~huybrech/) and [Prof. Dr. Manfred Lehn](http://www.agtz.mathematik.uni-mainz.de/topologie-und-geometrie/prof-dr-manfred-lehn/) respectively. I received my Ph.D. in Mathematics from Stanford University under the supervision of [Prof. Jun Li](http://math.stanford.edu/~jli/).
 
 ### Research Interests
 My research focuses on several aspects in algebraic geometry, including
@@ -19,6 +13,9 @@ My research focuses on several aspects in algebraic geometry, including
 
 ### Publications
 My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:zhang.ziyu), [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
+* [Examples of smooth components of moduli spaces of stable sheaves](./sheaf-smooth-compoments.pdf)
+(with Fabian Reede)
+*submitted*, [arXiv:1908.00368](https://arxiv.org/abs/1908.00368).
 * [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)  
 (with Evgeny Shinder)  
 *submitted*, [arXiv:1907.01335](https://arxiv.org/abs/1907.01335).
@@ -54,6 +51,9 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 {:#papers}
 
 ### Teaching Experience
+ShanghaiTech University:
+* 2019/20: Analysis I/II.
+
 Leibniz University Hannover:
 * 2018/19: Übung zu Mathematik für Ingenieure I/II.
 * 2017/18: Übung zu Mathematik für Ingenieure I/II.
