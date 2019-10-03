@@ -13,6 +13,9 @@ My research focuses on several aspects in algebraic geometry, including
 
 ### Publications
 My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:zhang.ziyu), [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
+* [Relative VGIT and an application to degenerations of Hilbert schemes](./relative-VGIT-degenerations.pdf)  
+(with Lars H. Halle and Klaus Hulek)  
+*submitted*, [arXiv:1909.03780](https://arxiv.org/abs/1909.03780).
 * [Examples of smooth components of moduli spaces of stable sheaves](./sheaves-smooth-components.pdf)  
 (with Fabian Reede)  
 *submitted*, [arXiv:1908.00368](https://arxiv.org/abs/1908.00368).
