@@ -13,8 +13,8 @@ My research focuses on several aspects in algebraic geometry, including
 
 ### Publications
 My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:zhang.ziyu), [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
-* [Examples of smooth components of moduli spaces of stable sheaves](./sheaf-smooth-compoments.pdf)
-(with Fabian Reede)
+* [Examples of smooth components of moduli spaces of stable sheaves](./sheaf-smooth-compoments.pdf)  
+(with Fabian Reede)  
 *submitted*, [arXiv:1908.00368](https://arxiv.org/abs/1908.00368).
 * [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)  
 (with Evgeny Shinder)  
