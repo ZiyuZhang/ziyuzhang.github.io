@@ -1,6 +1,6 @@
 ### Contact Information
 * Email [`zhangziyu at shanghaitech dot edu dot cn`](mailto:zhangziyu@shanghaitech.edu.cn)
-* If you would like to send me anything by post, please kindly contact me by email to request a shipping label.
+* Due to the complication of the mail services on campus, if you would like to send me anything by post, please kindly contact me to request a shipping label.
 
 ### About Me
 I recently joined the [Institute of Mathematical Sciences](http://ims.shanghaitech.edu.cn/ims_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/) as an Associate Professor. Previously I held research positions at Hannover, Bath, Bonn and Mainz, mentored by [Prof. Dr. Klaus Hulek](http://www.iag.uni-hannover.de/hulek.html), [Dr. Alastair Craw](http://people.bath.ac.uk/ac886/), [Prof. Dr. Daniel Huybrechts](http://www.math.uni-bonn.de/~huybrech/) and [Prof. Dr. Manfred Lehn](http://www.agtz.mathematik.uni-mainz.de/topologie-und-geometrie/prof-dr-manfred-lehn/) respectively. I received my Ph.D. in Mathematics from Stanford University under the supervision of [Prof. Jun Li](http://math.stanford.edu/~jli/).
