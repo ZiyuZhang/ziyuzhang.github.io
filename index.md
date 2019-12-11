@@ -77,6 +77,8 @@ Stanford University:
 * 2005/06 - 2008/09: Calculus I/II (tutorials).
 
 ### Invited Talks
+* Smooth components of moduli spaces,  
+ShanghaiTech-Yonsei Mathematics Conference, Shanghai, November 2019.
 * Irreducible holomorphic symplectic manifolds – Fantastic beasts and where to find them,  
 ShanghaiTech University, February 2019.
 * Formality conjecture for K3 surfaces,  
