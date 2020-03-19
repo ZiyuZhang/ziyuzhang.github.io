@@ -15,7 +15,7 @@ My research focuses on several aspects in algebraic geometry, including
 My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:zhang.ziyu), [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
 * [On the motive of O'Grady's ten-dimensional hyper-Kähler varieties](./motive-OG10.pdf)  
 (with Salvatore Floccari and Lie Fu)  
-*submitted*, [arXiv:1911.06572](https://arxiv.org/abs/1911.06572).
+to appear in *Commun. Contemp. Math.*, [arXiv:1911.06572](https://arxiv.org/abs/1911.06572).
 * [Relative VGIT and an application to degenerations of Hilbert schemes](./relative-VGIT-degenerations.pdf)  
 (with Lars H. Halle and Klaus Hulek)  
 *submitted*, [arXiv:1909.03780](https://arxiv.org/abs/1909.03780).
@@ -24,10 +24,10 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 *submitted*, [arXiv:1908.00368](https://arxiv.org/abs/1908.00368).
 * [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)  
 (with Evgeny Shinder)  
-*submitted*, [arXiv:1907.01335](https://arxiv.org/abs/1907.01335).
+to appear in *Bull. Lond. Math. Soc. *, [arXiv:1907.01335](https://arxiv.org/abs/1907.01335).
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-hilbert.pdf)  
 (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)  
-*submitted*, [arXiv:1802.00622](https://arxiv.org/abs/1802.00622).
+to appear in *J. Algebraic Geom.*, [arXiv:1802.00622](https://arxiv.org/abs/1802.00622).
 * [Formality conjecture for K3 surfaces](./formality-conjecture.pdf)  
 (with Nero Budur)  
 [*Compos. Math.*, 155(5):902-911](https://doi.org/10.1112/s0010437x19007206), 2019.
@@ -77,8 +77,10 @@ Stanford University:
 * 2005/06 - 2008/09: Calculus I/II (tutorials).
 
 ### Invited Talks
+* Formality conjecture for K3 surfaces,  
+Workshop on Teichmüller dynamics and the moduli space of curves, Xiamen University, China, January 2020.
 * Smooth components of moduli spaces,  
-ShanghaiTech-Yonsei Mathematics Conference, Shanghai, November 2019.
+ShanghaiTech-Yonsei Mathematics Conference, ShanghaiTech University, November 2019.
 * Irreducible holomorphic symplectic manifolds – Fantastic beasts and where to find them,  
 ShanghaiTech University, February 2019.
 * Formality conjecture for K3 surfaces,  
