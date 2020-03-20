@@ -86,8 +86,7 @@ ShanghaiTech University, February 2019.
 * Formality conjecture for K3 surfaces,  
 Université libre de Bruxelles, January 2019.
 * Formality conjecture and moduli spaces of sheaves on K3 surfaces,  
-North German Algebraic Geometry Seminar,  
-Max Planck Institute for Mathematics in the Sciences, Leipzig, November 2018.
+North German Algebraic Geometry Seminar, Max Planck Institute for Mathematics in the Sciences, Leipzig, November 2018.
 * Formality conjecture and moduli spaces of sheaves on K3 surfaces,  
 University of Lyon 1, October 2018.
 * Formality conjecture for K3 surfaces,  
