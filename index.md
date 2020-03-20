@@ -162,5 +162,5 @@ Student Algebraic Geometry Seminar, Stanford University, October 2007.
 {:#talks}
 
 ### Seminar
-* [Reading seminar on cubic hypersurfaces](./seminar-cubic-hypersurfaces.pdf) (organised with Víctor González-Alonso)  
+* [Reading seminar on cubic hypersurfaces](./seminar-cubic-hypersurfaces.pdf) (co-organised with Víctor González-Alonso)  
 Leibniz University Hannover, Winter Semester 2016-17.
