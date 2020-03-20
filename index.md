@@ -78,11 +78,9 @@ Stanford University:
 
 ### Invited Talks
 * Formality conjecture for K3 surfaces,  
-Workshop on Teichmüller dynamics and the moduli space of curves,  
-Xiamen University, January 2020.
+Workshop on Teichmüller dynamics and the moduli space of curves, Xiamen University, January 2020.
 * Smooth components of moduli spaces,  
-ShanghaiTech-Yonsei Mathematics Conference,  
-ShanghaiTech University, November 2019.
+ShanghaiTech-Yonsei Mathematics Conference, ShanghaiTech University, November 2019.
 * Irreducible holomorphic symplectic manifolds – Fantastic beasts and where to find them,  
 ShanghaiTech University, February 2019.
 * Formality conjecture for K3 surfaces,  
@@ -103,8 +101,7 @@ University of Mainz, June 2018.
 * Formality conjecture and moduli spaces of sheaves on K3 surfaces,  
 Leibniz University Hannover, April 2018.
 * Formality and singularities of some moduli spaces of sheaves on K3 surfaces,  
-School on Deformation Theory,  
-University of Turin, July 2017.
+School on Deformation Theory, University of Turin, July 2017.
 * Singularities of moduli spaces of sheaves on K3 surfaces and formality,  
 Leibniz University Hannover, June 2017.
 * Degenerations of Hilbert schemes of points on K3 surfaces,  
@@ -114,8 +111,7 @@ KU Leuven, April 2017.
 * Birational geometry of moduli spaces of sheaves on K3 surfaces via stability conditions,  
 University of Chemnitz, March 2017.
 * Holomorphic symplectic manifolds among Bridgeland moduli spaces,  
-Workshop on Fano varieties and Calabi-Yau varieties,  
-Kobe University, January 2017.
+Workshop on Fano varieties and Calabi-Yau varieties, Kobe University, January 2017.
 * Moduli spaces of sheaves on K3 surfaces and Bridgeland stability conditions,  
 University of Copenhagen, December 2016.
 * Moduli spaces of sheaves on K3 surfaces and Bridgeland stability conditions,  
