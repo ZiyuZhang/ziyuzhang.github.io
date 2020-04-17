@@ -51,7 +51,7 @@ to appear in *J. Algebraic Geom.*, [arXiv:1802.00622](https://arxiv.org/abs/1802
 * [A note on singular moduli spaces of sheaves on K3 surfaces](./singular-moduli-space.pdf)  
 [*Geom. Dedicata*, 173(1):347-363](https://doi.org/10.1007/s10711-013-9946-y), 2014.
 * [A note on formality and singularities of moduli spaces](./formality-singularity.pdf)  
-[*Mosc. Math. J.*, 12(4):1-17](http://www.mathjournals.org/mmj/2012-012-004/2012-012-004-011.html), 2012.
+[*Mosc. Math. J.*, 12(4):1-17](https://doi.org/10.17323/1609-4514-2012-12-4-863-879), 2012.
 * On singular moduli spaces of sheaves on K3 surfaces  
 *Ph.D. thesis*, Stanford University, 2009.
 {:#papers}
