@@ -22,12 +22,12 @@ to appear in *Commun. Contemp. Math.*, [arXiv:1911.06572](https://arxiv.org/abs/
 * [Examples of smooth components of moduli spaces of stable sheaves](./sheaves-smooth-components.pdf)  
 (with Fabian Reede)  
 *submitted*, [arXiv:1908.00368](https://arxiv.org/abs/1908.00368).
-* [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)  
-(with Evgeny Shinder)  
-to appear in *Bull. Lond. Math. Soc.*, [arXiv:1907.01335](https://arxiv.org/abs/1907.01335).
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-Hilbert.pdf)  
 (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)  
 to appear in *J. Algebraic Geom.*, [arXiv:1802.00622](https://arxiv.org/abs/1802.00622).
+* [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)  
+(with Evgeny Shinder)  
+[*Bull. London Math. Soc.*, 52(2):395–409](https://doi.org/10.1112/blms.12339), 2020.
 * [Formality conjecture for K3 surfaces](./formality-conjecture.pdf)  
 (with Nero Budur)  
 [*Compos. Math.*, 155(5):902-911](https://doi.org/10.1112/s0010437x19007206), 2019.
