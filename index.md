@@ -27,7 +27,7 @@ to appear in *Commun. Contemp. Math.*, [arXiv:1911.06572](https://arxiv.org/abs/
 to appear in *J. Algebraic Geom.*, [arXiv:1802.00622](https://arxiv.org/abs/1802.00622).
 * [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)  
 (with Evgeny Shinder)  
-[*Bull. London Math. Soc.*, 52(2):395–409](https://doi.org/10.1112/blms.12339), 2020.
+[*Bull. London Math. Soc.*, 52(2):395-409](https://doi.org/10.1112/blms.12339), 2020.
 * [Formality conjecture for K3 surfaces](./formality-conjecture.pdf)  
 (with Nero Budur)  
 [*Compos. Math.*, 155(5):902-911](https://doi.org/10.1112/s0010437x19007206), 2019.
