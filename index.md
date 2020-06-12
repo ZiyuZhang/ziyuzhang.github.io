@@ -21,7 +21,7 @@ to appear in *Commun. Contemp. Math.*, [arXiv:1911.06572](https://arxiv.org/abs/
 *submitted*, [arXiv:1909.03780](https://arxiv.org/abs/1909.03780).
 * [Examples of smooth components of moduli spaces of stable sheaves](./sheaves-smooth-components.pdf)  
 (with Fabian Reede)  
-*submitted*, [arXiv:1908.00368](https://arxiv.org/abs/1908.00368).
+to appear in *Manuscripta Math.*, [arXiv:1908.00368](https://arxiv.org/abs/1908.00368).
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-Hilbert.pdf)  
 (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)  
 to appear in *J. Algebraic Geom.*, [arXiv:1802.00622](https://arxiv.org/abs/1802.00622).
