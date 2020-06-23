@@ -5,13 +5,13 @@
 ### About Me
 I recently joined the [Institute of Mathematical Sciences](http://ims.shanghaitech.edu.cn/ims_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/) as an Associate Professor. Previously I held research positions at Hannover, Bath, Bonn and Mainz, mentored by [Prof. Dr. Klaus Hulek](http://www.iag.uni-hannover.de/hulek.html), [Dr. Alastair Craw](http://people.bath.ac.uk/ac886/), [Prof. Dr. Daniel Huybrechts](http://www.math.uni-bonn.de/~huybrech/) and [Prof. Dr. Manfred Lehn](http://www.agtz.mathematik.uni-mainz.de/topologie-und-geometrie/prof-dr-manfred-lehn/) respectively. I received my Ph.D. in Mathematics from Stanford University under the supervision of [Prof. Jun Li](http://math.stanford.edu/~jli/).
 
-### Research Interests
+### Research
 My research focuses on several aspects in algebraic geometry, including
 * moduli spaces of sheaves and complexes on K3 surfaces;
 * holomorphic symplectic manifolds and their degenerations;
 * derived categories, stability conditions and wall-crossing.
 
-### Publications and Preprints
+### Publications
 My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:zhang.ziyu), [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
 * [On the motive of O'Grady's ten-dimensional hyper-Kähler varieties](./motive-OG10.pdf)  
 (with Salvatore Floccari and Lie Fu)  
@@ -56,7 +56,7 @@ to appear in *J. Algebraic Geom.*, [arXiv:1802.00622](https://arxiv.org/abs/1802
 *Ph.D. thesis*, Stanford University, 2009.
 {:#papers}
 
-### Teaching Experience
+### Teaching
 ShanghaiTech University:
 * 2019/20: Mathematical Analysis I & II.
 
