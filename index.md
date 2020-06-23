@@ -61,8 +61,8 @@ ShanghaiTech University:
 * 2019/20: Mathematical Analysis I & II.
 
 Leibniz University Hannover:
-* 2018/19: Übung zu Mathematik für Ingenieure I/II.
-* 2017/18: Übung zu Mathematik für Ingenieure I/II.
+* 2018/19: Übung zu Mathematik für Ingenieure I & II.
+* 2017/18: Übung zu Mathematik für Ingenieure I & II.
 
 University of Bath:
 * 2015/16: [Algebraic Curves](https://ziyuzhang.github.io/ma40188/).
@@ -74,7 +74,7 @@ University of Bonn:
 
 Stanford University:
 * 2008/09: [Calculus I](https://ziyuzhang.github.io/math19/).
-* 2005/06 - 2008/09: Calculus I/II (tutorials).
+* 2005/06 - 2008/09: Calculus I & II (tutorials).
 
 ### Invited Talks
 * Formality conjecture for K3 surfaces,  
