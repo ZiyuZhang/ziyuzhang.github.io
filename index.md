@@ -58,7 +58,7 @@ to appear in *J. Algebraic Geom.*, [arXiv:1802.00622](https://arxiv.org/abs/1802
 
 ### Teaching Experience
 ShanghaiTech University:
-* 2019/20: Analysis I/II.
+* 2019/20: Mathematical Analysis I/II.
 
 Leibniz University Hannover:
 * 2018/19: Übung zu Mathematik für Ingenieure I/II.
