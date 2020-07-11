@@ -42,13 +42,13 @@ to appear in *J. Algebraic Geom.*, [arXiv:1802.00622](https://arxiv.org/abs/1802
 * [Nef divisors for moduli spaces of complexes with compact support](./nef-divisor-moduli.pdf)  
 (with Arend Bayer and Alastair Craw)  
 [*Selecta Math. (N.S.)*, 23(2):1507-1561](https://doi.org/10.1007/s00029-016-0298-y), 2017.
-* [Birational geometry of singular moduli spaces of O’Grady type](./birational-singular.pdf)  
+* [Birational geometry of singular moduli spaces of O’Grady type](./singular-MMP.pdf)  
 (with Ciaran Meachan)  
 [*Adv. Math.*, 296:210-267](https://doi.org/10.1016/j.aim.2016.02.036), 2016.
 * [Representing stable complexes on projective spaces](./stable-complexes-projective.pdf)  
 (with Jason Lo)  
 [*J. Algebra*, 400:185-218](https://doi.org/10.1016/j.jalgebra.2013.11.013), 2014.
-* [A note on singular moduli spaces of sheaves on K3 surfaces](./singular-moduli-space.pdf)  
+* [A note on singular moduli spaces of sheaves on K3 surfaces](./singular-2-divisible.pdf)  
 [*Geom. Dedicata*, 173(1):347-363](https://doi.org/10.1007/s10711-013-9946-y), 2014.
 * [A note on formality and singularities of moduli spaces](./formality-singularity.pdf)  
 [*Mosc. Math. J.*, 12(4):1-17](https://doi.org/10.17323/1609-4514-2012-12-4-863-879), 2012.
