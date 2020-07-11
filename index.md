@@ -19,7 +19,7 @@ to appear in *Commun. Contemp. Math.*, [arXiv:1911.06572](https://arxiv.org/abs/
 * [Relative VGIT and an application to degenerations of Hilbert schemes](./relative-VGIT-degenerations.pdf)  
 (with Lars H. Halle and Klaus Hulek)  
 *submitted*, [arXiv:1909.03780](https://arxiv.org/abs/1909.03780).
-* [Examples of smooth components of moduli spaces of stable sheaves](./sheaves-smooth-components.pdf)  
+* [Examples of smooth components of moduli spaces of stable sheaves](./moduli-smooth-components.pdf)  
 (with Fabian Reede)  
 to appear in *Manuscripta Math.*, [arXiv:1908.00368](https://arxiv.org/abs/1908.00368).
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-Hilbert.pdf)  
