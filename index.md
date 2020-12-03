@@ -24,7 +24,7 @@ to appear in *Commun. Contemp. Math.*, [arXiv:1911.06572](https://arxiv.org/abs/
 to appear in *Manuscripta Math.*, [arXiv:1908.00368](https://arxiv.org/abs/1908.00368).
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-Hilbert.pdf)  
 (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)  
-to appear in *J. Algebraic Geom.*, [arXiv:1802.00622](https://arxiv.org/abs/1802.00622).
+[*J. Algebraic Geom.*, 30:1-56](https://doi.org/10.1090/jag/765), 2021.
 * [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)  
 (with Evgeny Shinder)  
 [*Bull. London Math. Soc.*, 52(2):395-409](https://doi.org/10.1112/blms.12339), 2020.
