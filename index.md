@@ -16,15 +16,15 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 * [Stability of some vector bundles on Hilbert schemes of points on K3 surfaces](./stable-Hilbert-K3.pdf)  
 (with Fabian Reede)  
 *submitted*, [arXiv:2103.10328](https://arxiv.org/abs/2103.10328).  
-* [On the motive of O'Grady's ten-dimensional hyper-Kähler varieties](./motive-OG10.pdf)  
-(with Salvatore Floccari and Lie Fu)  
-to appear in *Commun. Contemp. Math.*, [arXiv:1911.06572](https://arxiv.org/abs/1911.06572).
 * [Relative VGIT and an application to degenerations of Hilbert schemes](./relative-VGIT-degenerations.pdf)  
 (with Lars H. Halle and Klaus Hulek)  
 *submitted*, [arXiv:1909.03780](https://arxiv.org/abs/1909.03780).
+* [On the motive of O'Grady's ten-dimensional hyper-Kähler varieties](./motive-OG10.pdf)  
+(with Salvatore Floccari and Lie Fu)  
+[to appear in *Commun. Contemp. Math.*](https://doi.org/10.1142/S0219199720500340)
 * [Examples of smooth components of moduli spaces of stable sheaves](./moduli-smooth-components.pdf)  
 (with Fabian Reede)  
-to appear in *Manuscripta Math.*, [arXiv:1908.00368](https://arxiv.org/abs/1908.00368).
+[to appear in *Manuscripta Math.*](https://doi.org/10.1007/s00229-020-01223-0)
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-Hilbert.pdf)  
 (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)  
 [*J. Algebraic Geom.*, 30:1-56](https://doi.org/10.1090/jag/765), 2021.
