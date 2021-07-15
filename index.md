@@ -24,7 +24,7 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 [electronically published in *Commun. Contemp. Math.*](https://doi.org/10.1142/S0219199720500340)
 * [Examples of smooth components of moduli spaces of stable sheaves](./moduli-smooth-components.pdf)  
 (with Fabian Reede)  
-[electronically published in *Manuscripta Math.*](https://doi.org/10.1007/s00229-020-01223-0)
+[*Manuscripta Math.*, 165:605-621](https://doi.org/10.1007/s00229-020-01223-0), 2021
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-Hilbert.pdf)  
 (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)  
 [*J. Algebraic Geom.*, 30:1-56](https://doi.org/10.1090/jag/765), 2021.
