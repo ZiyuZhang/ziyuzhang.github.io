@@ -83,7 +83,7 @@ Stanford University:
 * Degenerations of Hilbert schemes of points on K3 surfaces,  
 Pacific Rim Complex & Symplectic Geometry Conference, IBS-CGP, Korea, July 2021.
 * Degenerations of Hilbert schemes of points on K3 surfaces,  
-Shanghai Center for Mathematical Sciences, Fudan University, China, September 2020.
+Shanghai Center for Mathematical Sciences, Fudan University, September 2020.
 * Formality conjecture for K3 surfaces,  
 Workshop on Teichmüller dynamics and the moduli space of curves, Xiamen University, January 2020.
 * Smooth components of moduli spaces,  
