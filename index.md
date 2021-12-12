@@ -27,7 +27,7 @@ to appear in *Michigan Math. J.*, [arXiv:1909.03780](https://arxiv.org/abs/1909.
 [*Commun. Contemp. Math.* 23 (2021), no. 4, Paper No. 2050034, 50 pp.](https://doi.org/10.1142/S0219199720500340)
 * [Examples of smooth components of moduli spaces of stable sheaves](./moduli-smooth-components.pdf)  
 (with Fabian Reede)  
-[*Manuscripta Math.*, 165:605-621](https://doi.org/10.1007/s00229-020-01223-0), 2021
+[*Manuscripta Math.* 165 (2021), no. 3-4, 605–621.](https://doi.org/10.1007/s00229-020-01223-0)
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-Hilbert.pdf)  
 (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)  
 [*J. Algebraic Geom.*, 30:1-56](https://doi.org/10.1090/jag/765), 2021.
@@ -64,6 +64,8 @@ to appear in *Michigan Math. J.*, [arXiv:1909.03780](https://arxiv.org/abs/1909.
 
 ### Teaching
 ShanghaiTech University:
+* 2021/22: Convex Optimization.
+* 2021/22: Linear Programming.
 * 2019/20: Mathematical Analysis I & II.
 
 Leibniz University Hannover:
