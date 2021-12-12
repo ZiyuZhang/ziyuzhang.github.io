@@ -30,7 +30,7 @@ to appear in *Michigan Math. J.*, [arXiv:1909.03780](https://arxiv.org/abs/1909.
 [*Manuscripta Math.* 165 (2021), no. 3-4, 605–621.](https://doi.org/10.1007/s00229-020-01223-0)
 * [The geometry of degenerations of Hilbert schemes of points](./geometry-degenerations-Hilbert.pdf)  
 (with Martin G. Gulbrandsen, Lars H. Halle and Klaus Hulek)  
-[*J. Algebraic Geom.*, 30:1-56](https://doi.org/10.1090/jag/765), 2021.
+[*J. Algebraic Geom.* 30 (2021), no. 1, 1–56.](https://doi.org/10.1090/jag/765)
 * [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)  
 (with Evgeny Shinder)  
 [*Bull. London Math. Soc.*, 52(2):395-409](https://doi.org/10.1112/blms.12339), 2020.
