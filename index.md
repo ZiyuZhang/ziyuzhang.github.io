@@ -18,13 +18,13 @@ My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:
 *submitted*, [arXiv:2108.05339](https://arxiv.org/abs/2108.05339).
 * [Stability of some vector bundles on Hilbert schemes of points on K3 surfaces](./stable-Hilbert-K3.pdf)  
 (with Fabian Reede)  
-*submitted*, [arXiv:2103.10328](https://arxiv.org/abs/2103.10328).  
+[to appear in *Math. Z.*](https://doi.org/10.1007/s00209-021-02920-6)
 * [Relative VGIT and an application to degenerations of Hilbert schemes](./relative-VGIT-degenerations.pdf)  
 (with Lars H. Halle and Klaus Hulek)  
-*submitted*, [arXiv:1909.03780](https://arxiv.org/abs/1909.03780).
+to appear in *Michigan Math. J.*, [arXiv:1909.03780](https://arxiv.org/abs/1909.03780).
 * [On the motive of O'Grady's ten-dimensional hyper-Kähler varieties](./motive-OG10.pdf)  
 (with Salvatore Floccari and Lie Fu)  
-[electronically published in *Commun. Contemp. Math.*](https://doi.org/10.1142/S0219199720500340)
+[*Commun. Contemp. Math.* 23 (2021), no. 4, Paper No. 2050034, 50 pp.](https://doi.org/10.1142/S0219199720500340)
 * [Examples of smooth components of moduli spaces of stable sheaves](./moduli-smooth-components.pdf)  
 (with Fabian Reede)  
 [*Manuscripta Math.*, 165:605-621](https://doi.org/10.1007/s00229-020-01223-0), 2021
@@ -83,6 +83,8 @@ Stanford University:
 * 2005/06 - 2008/09: Calculus I & II (tutorials).
 
 ### Invited Talks
+* Examples of stable bundles on hyperkähler manifolds of higher dimensions,  
+Algebraic Geometry Conference, Tongji University, Shanghai, November 2021.
 * Degenerations of Hilbert schemes of points on K3 surfaces,  
 Pacific Rim Complex & Symplectic Geometry Conference, IBS-CGP, Korea, July 2021.
 * Degenerations of Hilbert schemes of points on K3 surfaces,  
