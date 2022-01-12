@@ -64,25 +64,25 @@ to appear in *Michigan Math. J.*, [arXiv:1909.03780](https://arxiv.org/abs/1909.
 
 ### Teaching
 ShanghaiTech University:
-* 2021/22: Convex Optimization.
-* 2021/22: Linear Programming.
-* 2019/20: Mathematical Analysis I & II.
+* 2021/22   Convex Optimization.
+* 2021/22   Linear Programming.
+* 2019/20   Mathematical Analysis I & II.
 
 Leibniz University Hannover:
-* 2018/19: Übung zu Mathematik für Ingenieure I & II.
-* 2017/18: Übung zu Mathematik für Ingenieure I & II.
+* 2018/19   Übung zu Mathematik für Ingenieure I & II.
+* 2017/18   Übung zu Mathematik für Ingenieure I & II.
 
 University of Bath:
-* 2015/16: [Algebraic Curves](https://ziyuzhang.github.io/ma40188/).
-* 2014/15: [Number Theory](https://ziyuzhang.github.io/ma40238/).
-* 2013/14: Discrete Mathematics and Programming (tutorials).
+* 2015/16   [Algebraic Curves](https://ziyuzhang.github.io/ma40188/).
+* 2014/15   [Number Theory](https://ziyuzhang.github.io/ma40238/).
+* 2013/14   Discrete Mathematics and Programming (tutorials).
 
 University of Bonn:
-* 2012/13: Algebraic Geometry II (tutorials).
+* 2012/13   Algebraic Geometry II (tutorials).
 
 Stanford University:
-* 2008/09: [Calculus I](https://ziyuzhang.github.io/math19/).
-* 2005/06 - 2008/09: Calculus I & II (tutorials).
+* 2008/09   [Calculus I](https://ziyuzhang.github.io/math19/).
+* 2005/06 - 2008/09   Calculus I & II (tutorials).
 
 ### Invited Talks
 * Examples of stable bundles on hyperkähler manifolds of higher dimensions,  
