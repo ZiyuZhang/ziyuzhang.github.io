@@ -82,7 +82,7 @@ University of Bonn:
 
 Stanford University:
 * 2008/09   [Calculus I](https://ziyuzhang.github.io/math19/).
-* 2005/06 - 2008/09   Calculus I & II (tutorials).
+* 2005/06 -- 2008/09   Calculus I & II (tutorials).
 
 ### Invited Talks
 * Examples of stable bundles on hyperkähler manifolds of higher dimensions,  
