@@ -85,6 +85,8 @@ Stanford University:
 * 2005/06 -- 2008/09:   Calculus I & II (tutorials).
 
 ### Invited Talks
+* Degenerations of Hilbert schemes of points on K3 surfaces,  
+USTC Algebraic Geometry Workshop, Hefei, January 2022.
 * Examples of stable bundles on hyperkähler manifolds of higher dimensions,  
 Algebraic Geometry Conference, Tongji University, Shanghai, November 2021.
 * Degenerations of Hilbert schemes of points on K3 surfaces,  
