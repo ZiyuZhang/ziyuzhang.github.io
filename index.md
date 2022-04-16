@@ -15,10 +15,10 @@ My research focuses on several aspects in algebraic geometry, including
 My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:zhang.ziyu), [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
 * [Stable vector bundles on generalized Kummer varieties](./stable-sheaves-Kummer.pdf)  
 (with Fabian Reede)  
-*submitted*, [arXiv:2108.05339](https://arxiv.org/abs/2108.05339).
+to appear in *Forum Math.*, [arXiv:2108.05339](https://arxiv.org/abs/2108.05339).
 * [Stability of some vector bundles on Hilbert schemes of points on K3 surfaces](./stable-Hilbert-K3.pdf)  
 (with Fabian Reede)  
-[to appear in *Math. Z.*](https://doi.org/10.1007/s00209-021-02920-6)
+[*Math. Z.* 301 (2022), no. 1, 315–341.](https://doi.org/10.1007/s00209-021-02920-6)
 * [Relative VGIT and an application to degenerations of Hilbert schemes](./relative-VGIT-degenerations.pdf)  
 (with Lars H. Halle and Klaus Hulek)  
 to appear in *Michigan Math. J.*, [arXiv:1909.03780](https://arxiv.org/abs/1909.03780).
@@ -33,10 +33,10 @@ to appear in *Michigan Math. J.*, [arXiv:1909.03780](https://arxiv.org/abs/1909.
 [*J. Algebraic Geom.* 30 (2021), no. 1, 1–56.](https://doi.org/10.1090/jag/765)
 * [L-equivalence for degree five elliptic curves, elliptic fibrations and K3 surfaces](./L-equivalence-degree5.pdf)  
 (with Evgeny Shinder)  
-[*Bull. London Math. Soc.*, 52(2):395-409](https://doi.org/10.1112/blms.12339), 2020.
+[*Bull. Lond. Math. Soc.* 52 (2020), no. 2, 395–409.](https://doi.org/10.1112/blms.12339)
 * [Formality conjecture for K3 surfaces](./formality-conjecture.pdf)  
 (with Nero Budur)  
-[*Compos. Math.*, 155(5):902-911](https://doi.org/10.1112/s0010437x19007206), 2019.
+[*Compos. Math.* 155 (2019), no. 5, 902–911.](https://doi.org/10.1112/s0010437x19007206)
 * [Duality spectral sequences for Weierstrass fibrations and applications](./duality-spectral-sequences.pdf)  
 (with Jason Lo)  
 [*J. Geometry Phys.*, 123:362-371](https://doi.org/10.1016/j.geomphys.2017.09.016), 2018.
