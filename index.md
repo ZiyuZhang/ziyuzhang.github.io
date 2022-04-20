@@ -15,13 +15,13 @@ My research focuses on several aspects in algebraic geometry, including
 My publications and preprints can be found on [zbMATH](https://zbmath.org/?q=ai:zhang.ziyu), [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=Zhang%2C+Ziyu) and [arXiv](https://arxiv.org/find/grp_math/1/au:+Zhang_Ziyu/0/1/0/all/0/1).
 * [Stable vector bundles on generalized Kummer varieties](./stable-sheaves-Kummer.pdf)  
 (with Fabian Reede)  
-to appear in *Forum Math.*, [arXiv:2108.05339](https://arxiv.org/abs/2108.05339).
-* [Stability of some vector bundles on Hilbert schemes of points on K3 surfaces](./stable-Hilbert-K3.pdf)  
-(with Fabian Reede)  
-[*Math. Z.* 301 (2022), no. 1, 315–341.](https://doi.org/10.1007/s00209-021-02920-6)
+[to appear in *Forum Math.*](https://doi.org/10.1515/forum-2021-0249)
 * [Relative VGIT and an application to degenerations of Hilbert schemes](./relative-VGIT-degenerations.pdf)  
 (with Lars H. Halle and Klaus Hulek)  
 to appear in *Michigan Math. J.*, [arXiv:1909.03780](https://arxiv.org/abs/1909.03780).
+* [Stability of some vector bundles on Hilbert schemes of points on K3 surfaces](./stable-Hilbert-K3.pdf)  
+(with Fabian Reede)  
+[*Math. Z.* 301 (2022), no. 1, 315–341.](https://doi.org/10.1007/s00209-021-02920-6)
 * [On the motive of O'Grady's ten-dimensional hyper-Kähler varieties](./motive-OG10.pdf)  
 (with Salvatore Floccari and Lie Fu)  
 [*Commun. Contemp. Math.* 23 (2021), no. 4, Paper No. 2050034, 50 pp.](https://doi.org/10.1142/S0219199720500340)
