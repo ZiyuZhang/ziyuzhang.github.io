@@ -64,8 +64,6 @@ to appear in *Michigan Math. J.*, [arXiv:1909.03780](https://arxiv.org/abs/1909.
 
 ### Teaching
 ShanghaiTech University:
-* 2022/23 Autumn:   Complex Manifolds.
-* 2022/23 Autumn:   Linear Programming.
 * 2021/22 Spring:   Convex Optimization.
 * 2021/22 Autumn:   Linear Programming.
 * 2019/20 Spring:   Mathematical Analysis II.
