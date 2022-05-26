@@ -65,8 +65,8 @@ to appear in *Michigan Math. J.*, [arXiv:1909.03780](https://arxiv.org/abs/1909.
 
 ### Teaching
 ShanghaiTech University:
-* 2021/22 Spring:   Convex Optimization.
-* 2021/22 Autumn:   Linear Programming.
+* 2021/22 Spring:   [Convex Optimization](https://lrc.shanghaitech.edu.cn/course-detail?course_id=1016957).
+* 2021/22 Autumn:   [Linear Programming](https://lrc.shanghaitech.edu.cn/course-detail?course_id=885677).
 * 2019/20 Spring:   Mathematical Analysis II.
 * 2019/20 Autumn:   Mathematical Analysis I.
 
