@@ -1,0 +1,3 @@
+title: On CM points away from the Torelli locus
+
+abstract: Coleman and Oort conjectured that the Torelli locus in the Siegel modular variety should contain very few CM points, at least when the genus is large enough. We discuss related results using properties of surface fibration and geometry of Shimura varieties. This talk is based on joint work with Kang Zuo and Xin Lv.
