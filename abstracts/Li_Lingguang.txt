@@ -1,0 +1,3 @@
+Title: On the stratifications of moduli space of vector bundles
+Speaker: Lingguang Li
+Abstract: I will talk about the Shatz and Bialynicki-Birula stratifications of the moduli space of Higgs bundles, and the Frobenius stratification of moduli space of vector bundles in positive characteristic.

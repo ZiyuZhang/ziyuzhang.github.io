@@ -1,3 +1,4 @@
 #!/bin/sh
-cd $(dirname $0)
+echo $0
+cd "/Users/zhang/Library/Mobile Documents/com~apple~CloudDocs/research/active/homepage"
 ./jemdoc -c mysite.conf *.jemdoc

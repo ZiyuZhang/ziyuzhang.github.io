@@ -1,0 +1,3 @@
+Title: A Remark on local Polar Multiplicities
+Speaker: Xiping Zhang
+Abstract: The local polar varieties and their multiplicities were introduced by Teissier to study the algebraic nature of Whitney stratification. It was later shown that they are closely related to the other topological invariants of stratified spaces, such as the local Euler obstructions. In this talk we will discuss some applications via the theory of polar varieties, mostly in the case of hypersurfaces. This is a joint work with Terence Gaffney.

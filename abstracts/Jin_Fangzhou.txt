@@ -1,0 +1,3 @@
+Title: A Gersten complex on real schemes
+Speaker: Fangzhou Jin
+Abstract: We discuss a connection between coherent duality and the Verdier-type duality on real schemes via a Gersten-type complex. This is a joint work with H. Xie.
