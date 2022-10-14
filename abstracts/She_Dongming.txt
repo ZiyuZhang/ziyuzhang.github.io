@@ -1,0 +1,3 @@
+Title: Local Langlands correspondence and stability of local coefficients
+
+Abstract: A main problem in the local Langlands correspondence is the equality of the local arithmetic and analytic L- and epsilon-factors. We will briefly introduce the local Langlands correspondence, Langlands-Shahidi method, and sketch a proof of the equality of the local factors attached to the twisted symmetric square and exterior square representations of GL(N), by applying Langlands-Shahidi method to GSpin groups. The proof uses a global argument to reduce it to the stability of Shahidi local coefficients. We will also discuss the strategy towards the stability of local coefficients using an asymptotic analysis of certain partial Bessel functions.
