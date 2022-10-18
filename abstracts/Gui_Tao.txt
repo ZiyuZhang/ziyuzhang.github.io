@@ -1,0 +1,7 @@
+Title: Equivariant Log-concavity and Equivariant Kahler Packages (or: Shadows of Hodge Theory)
+
+Time: Friday, October 28th, 2022, 15:00-16:00 
+
+Speaker: Tao Gui, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+
+Abstract: This talk aims to advertise a pattern/phenomenon that has emerged in many different mathematical areas during the past decades but is not currently well-understood. I will begin with a broad overview of the Kahler packages (Poincare duality, Hard Lefschetz, and Hodge-Riemann relations) that appear in geometry, algebra, and combinatorics, from the classics of Lefschetz to the recent work of this year's Fields medalist June Huh, in a down-to-earth way. Then I will discuss two new Kahler packages we discovered that are equivariant and have no geometric origin. The equivariant log-concavity in representation theory hints at our discoveries. This talk will be non-technical and accessible to the general audience: nothing will be assumed other than elementary linear algebra. Partly based on joint work with Rui Xiong. 
