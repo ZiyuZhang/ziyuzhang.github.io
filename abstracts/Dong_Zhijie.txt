@@ -1,0 +1,3 @@
+Title: Degenerations of products of projective lines and Lie algebras
+
+Abstract: In this talk, we will explain how degenerations of products of projective lines can be controlled by the datum of a symmetric matrix with integer entries. The above geometric structure forms a local space, a notion introduced by Mirkovic. It is a version of a fundamental structure named factorizable spaces, which was introduced and studied by Beilinson and Drinfeld.
