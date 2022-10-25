@@ -1,0 +1,2 @@
+Title: Torsion subgroups of modular Jacobians over abelian fields
+Abstract: In this talk, we first review Ogg’s conjecture and its proof by Mazur. Then we will introduce generalizations of the conjecture and our work about it.
