@@ -1,0 +1,3 @@
+Title: Choosing beta-extensions for quaternionic forms
+
+Abstract: beta-extensions are the positive level part for Bushnell-Kutzko-Stevens-types for cuspidal representations for p-adic classical groups. In opposite to the quasi-split case one needs to be more careful in choosing  a beta-extension for a quaternionic form of a classical group. I will give an overview about beta-extensions and their construction and then present which  ones  are siutable for quaternionic forms.
