@@ -1,0 +1,5 @@
+Title: Geometry of Emerton-Gee stacks for GL2.
+
+Abstract: The local p-adic Galois representation plays an important role in the p-adic Langlands program. Their deformation spaces/moduli spaces are the central objects to be studied.
+
+In a recent joint work with Anthony Guzman, Kalyani Kansal, Iason Kountouridis, and Ben Savoie, we carefully study the geometry of the moduli space of certain rank 2 p-adic Galois representations constructed by Emerton and Gee. We show that most irreducible components of this moduli space(moduli stack) are isomorphic to the quotients of some smooth affine schemes.
