@@ -1,0 +1,3 @@
+Title: Non-commutative Hodge structures
+
+Abstract: We shall discuss the construction of non-commutative Hodge structures defined from differential graded or A-infinity categories. These structures are similar to that appeared in previous talks by Imagi and others. Indeed, conjecturally they are mirror dual to each other.
