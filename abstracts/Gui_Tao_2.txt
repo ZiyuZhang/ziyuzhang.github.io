@@ -1,0 +1,3 @@
+Title:  Ten log-concave conjectures that I find interesting
+
+Abstract: June Huh is awarded the Fields Medal 2022 for bringing the ideas of Hodge theory to combinatorics and proving several long-standing combinatorics conjectures. I will explain some of his work and present some related open problems that I have been thinking about for some time and found interesting. This talk will be colloquium-style and non-technical, accessible to the general audience: no specific background will be needed to enjoy the talk.
