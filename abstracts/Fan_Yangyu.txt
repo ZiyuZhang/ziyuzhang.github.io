@@ -1,0 +1,3 @@
+Title: Canonical local periods in families
+
+Abstract: In this talk, I will report some results about canonical local periods in families of smooth representations. This is a joint work with Li Cai.

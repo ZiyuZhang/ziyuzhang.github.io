@@ -1,0 +1,3 @@
+Title: On termination of the flips and enc singularities 
+
+Abstract: In this talk, I will introduce the so-called " exceptionally non-canonical singularities ". Although being noncanonical, such pairs are expected to have nice properties. In particular, it is predicted that the set of minimal log discrepancies (mlds) of exceptional non-canonical pairs should satisfy the ascending chain condition (ACC). I will show the relationship of this conjecture with the termination of flips. This is a joint work with Jihao Liu.
