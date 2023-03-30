@@ -1,0 +1,3 @@
+Title: A relation between Brauer groups and Tate-Shafarevich groups for high dimensional fibrations
+ 
+Abstract: Let $\mathcal{X} \rightarrow C$  be a dominant morphism between smooth geometrically connected varieties over a finitely generated field such that the generic fiber $X/K$ is smooth, projective and geometrically connected.  We prove a relation between the Tate-Shafarevich group of  $Pic^0_{X/K}$ and the geometric Brauer groups of $ \mathcal{X}$ , $X$ and $C$,   generalizing a theorem of Artin and Grothendieck for fibered surfaces to arbitrary relative dimension.
