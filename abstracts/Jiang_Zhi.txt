@@ -1,0 +1,3 @@
+Title: Singularities of divisors of low degrees on abelian varieties
+
+Abstract: Ein and Lazarsfeld proved that an irreducible theta divisor is normal with rational singularities. Based on previous work of Debarre-Hacon and Pareschi, we extended this result to divisors of small degrees on general abelian varieties. This is a joint work with Liu Hui.
