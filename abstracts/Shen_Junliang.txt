@@ -1,0 +1,3 @@
+Title: Cohomology of the moduli of vector bundles and the moduli of Higgs bundles on a Riemann surface
+
+Abstract: The moduli of Higgs bundles on a curve can either be viewed as a variant of the moduli of vector bundle on a curve --- a very classical moduli space that has been studied for decades, or the non-abelian Dolbeault cohomology of the curve in view of the non-abelian Hodge theory. In this talk, I will discuss some interesting symmetries of the cohomology of the moduli of Higgs bundles that do not show up for the moduli of vector bundles. I will then explain how different viewpoints lead to completely different proofs of this statement. If time permits, I may discuss some open questions.
