@@ -13,7 +13,7 @@ author_profile: true
   Luís Correia, Brazil, August 2026
 
 - **Conference on Algebraic and Differential Geometry — Shanghai 2026**  
-  Fields Institute Shanghai, June 1-6, 2026  
+  Fields Institute Shanghai, June 1-5, 2026  
   [Link](https://feishu.ca/eventsdetail.html?id=391&lang=en){: .btn--research}
 
 - **Workshop on Calabi-Yau Geometry**  
