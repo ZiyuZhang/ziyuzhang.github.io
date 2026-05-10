@@ -36,6 +36,13 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.mathscinet %}
+        <li><a href="{{ author.mathscinet }}"><i class="fas fa-fw fa-book-open-reader icon-pad-right" aria-hidden="true"></i>MathSciNet</a></li>
+      {% endif %}
+      {% if author.zbmath %}
+        <li><a href="{{ author.zbmath }}"><i class="fas fa-fw fa-book icon-pad-right" aria-hidden="true"></i>zbMATH  Open</a></li>
+      {% endif %}
+      
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
